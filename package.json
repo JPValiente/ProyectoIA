@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
+    "dev": "npm run dev",
+    "build": "npm run build",
+    "start": "npm run start",
     "generate": "nuxt generate"
   },
   "dependencies": {
