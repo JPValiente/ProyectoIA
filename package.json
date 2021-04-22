@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "core-js": "^3.9.1",
-    "nuxt": "^2.15.3"
+    "nuxt": "^2.15.3",
+    "vuetify": "^2.4.11"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@mdi/font": "^5.9.55",
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
 }
