@@ -30,6 +30,7 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     '@nuxtjs/vuetify',
+    '@nuxtjs/axios'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -40,7 +41,6 @@ export default {
   build: {
   },
   server: {
-    host: '0.0.0.0',
-    port: 8080 // default: 3000
+    
   }
 }
